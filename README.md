@@ -1,6 +1,6 @@
 # Shop Example
 A NodeJS shop example 
 
-# Licens 
+# License 
 
-[MIT](LICENS)
+[MIT](LICENSE)
