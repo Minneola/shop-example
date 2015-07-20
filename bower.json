@@ -1,0 +1,24 @@
+{
+  "name": "minneola/shop",
+  "version": "0.0.1",
+  "authors": [
+    "TobyMaxham <git2015@maxham.de>"
+  ],
+  "description": "Minneola Shop Example",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "homepage": "https://github.com/Minneola/shop-example",
+  "main": "src/main.js",
+  "keywords": [
+    "nodejs", "javascript", "minneola"
+  ]
+}

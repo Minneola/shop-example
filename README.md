@@ -1,6 +1,6 @@
 # Shop Example
 A NodeJS shop example 
 
-# License 
+# License
 
-[MIT](LICENSE)
+Minneola Shop Example is open source software licensed under [the MIT License (MIT)](LICENSE).
